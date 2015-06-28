@@ -1,0 +1,3 @@
+﻿# WHITE GOAT MILK WEBSITE
+# DEVERLOPED BY HUYHQ AND DUNGTHAN
+# Milestone 2 branch version
